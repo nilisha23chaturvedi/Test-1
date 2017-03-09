@@ -7,4 +7,6 @@ void main()
 {
 cout<<"hello world";
 cout<<"Is this ok?";
+cout<<:Test again";  
 }
+
